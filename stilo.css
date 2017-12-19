@@ -1,0 +1,31 @@
+div{
+    display: inline-block;
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+.levi{
+    background-color: #2070dc;
+}
+.desni{
+    background-color: #dc6922;
+}
+button{
+    width: 40%;
+    height: 20%;
+    margin: 40% 30%;
+    background-color: #000000;
+    border: 3px solid orange;
+}
+a{
+    color: orange;
+    font-size: 42px;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+    font-size: 55px;
+}
+button:hover{
+    border: 5px solid white;
+}
